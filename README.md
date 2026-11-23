@@ -77,3 +77,8 @@ TaskTracker/
 ```bash
 dotnet run --project TaskTracker
 ```
+
+
+## Домашнее задание 9
+
+[Интерфейсы и инверсия зависимостей](HW9/README.md)
